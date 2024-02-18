@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on... anything, really!
 - 📫 How to reach me... here, I guess.
 - 😄 Pronouns: ... you'll never guess
-- ⚡ Fun fact: i definitely not a student
+- ⚡ Fun fact: im definitely not a student
 
 <!---
 the-darklight-of-all-time/the-darklight-of-all-time is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
